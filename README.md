@@ -12,7 +12,7 @@ This is sheip9 ~
 
 唉我是一个脑袋空空的人，平时没有什么比较好的想法，如果你有，可以邀请我一起合作~
 
-求职中，有意聊聊的可以Email to `offer@bilibili.tax`
+求职中，有意聊聊的可以Email to [offer@bilibili.tax](mailto:offer@bilibili.tax)
 
 ## Language / Framework
 
