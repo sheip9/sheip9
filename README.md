@@ -12,6 +12,8 @@ This is sheip9 ~
 
 唉我是一个脑袋空空的人，平时没有什么比较好的想法，如果你有，可以邀请我一起合作~
 
+还有一些 issue pr 之类的也欢迎 at 我，如果我会完会尽力来帮忙解决
+
 求职中，有意聊聊的可以Email to [offer@bilibili.tax](mailto:offer@bilibili.tax)
 
 ## Language / Framework
